@@ -1,0 +1,24 @@
+{
+    "id": 132852616,
+    "name": "Greif",
+    "author": "Confinmo",
+    "creators": ["Confinmo"],
+    "verifier": "Lighting",
+    "verification": "https://www.youtube.com/watch?v=JlDvYYSYDZU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Gold-e",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BestPlayerEverNoCap",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
