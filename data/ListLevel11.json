@@ -1,0 +1,24 @@
+{
+    "id": 3,
+    "name": "Polargeist",
+    "author": "Robtop",
+    "creators": ["Robtop"],
+    "verifier": "WestDolphin",
+    "verification": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BestPlayerEverNoCap",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
