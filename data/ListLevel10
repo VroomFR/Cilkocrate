@@ -1,0 +1,24 @@
+{
+    "id": 119514853,
+    "name": "Unnamed 8",
+    "author": "LuckyKat",
+    "creators": ["John07"],
+    "verifier": "Lighting",
+    "verification": "https://www.youtube.com/watch?v=WTyRYc736g4&t=40s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WestDolphin",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
