@@ -1,0 +1,24 @@
+{
+    "id": 119514853,
+    "name": "Light Level",
+    "author": "Cyber",
+    "creators": ["Cyber"],
+    "verifier": "WestDolphin",
+    "verification": "No Video Yet",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Gold-e",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WaterGuy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
