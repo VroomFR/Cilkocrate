@@ -1,0 +1,24 @@
+{
+    "id": 133099317,
+    "name": "EZ",
+    "author": "MatWasTaken",
+    "creators": ["Umoook"],
+    "verifier": "Lighting",
+    "verification": "https://www.youtube.com/watch?v=TFkz2iIwR_U",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SpikeyBoy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
