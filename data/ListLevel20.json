@@ -1,0 +1,24 @@
+{
+    "id": 119514853,
+    "name": "Never Leaving The Top 19 lol",
+    "author": "FreakRam",
+    "creators": ["idontrlycare999"],
+    "verifier": "Lighting",
+    "verification": "https://www.youtube.com/watch?v=FOcxYxA-CI8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Octopusman123",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
