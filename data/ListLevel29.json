@@ -1,0 +1,19 @@
+{
+    "id":132833076 ,
+    "name": "A Geometry's Dash",
+    "author": "Lil skittle",
+    "creators": ["Lil skittle"],
+    "verifier": "Clonk GMD",
+    "verification": "none",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+       
+        }
+    ]
+}
