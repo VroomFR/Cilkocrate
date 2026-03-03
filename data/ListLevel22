@@ -1,0 +1,24 @@
+{
+    "id": ,
+    "name": "Silent Subway Surfer",
+    "author": "cyberpr",
+    "creators": ["cyberpr"],
+    "verifier": "MailorFlorence",
+    "verification": "",
+    "percentToQualify": "29",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Darusoro",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 58,
+            "hz": 240
+        },
+        {
+            "user": "ClonkGMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
