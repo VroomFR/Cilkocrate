@@ -1,0 +1,24 @@
+{
+    "id":132929900 ,
+    "name": "Silent Bloodbath Reborn Rebirth",
+    "author": "thekoop26",
+    "creators": ["thekoop26"],
+    "verifier": "Lighting",
+    "verification": "none",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
