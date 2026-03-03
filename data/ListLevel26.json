@@ -1,0 +1,24 @@
+{
+    "id":132857763 ,
+    "name": "Quandale processing",
+    "author": "thekoop26",
+    "creators": ["thekoop26"],
+    "verifier": "reactorcorezero",
+    "verification": "none",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ClonkGMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
