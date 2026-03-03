@@ -1,0 +1,19 @@
+
+{
+  "id": 0,
+  "name": "Silent Subway Surfer",
+  "author": "cyberpr",
+  "creators": ["cyberpr"],
+  "verifier": "ClonkGMD",
+  "verification": "",
+  "percentToQualify": 25,
+  "password": "Free To Copy",
+  "records":89 [
+    {
+      "user": "MilkeywayMexico",
+      "link": "",
+      "percent": 89,
+      "hz": 144
+    }
+  ]
+}
