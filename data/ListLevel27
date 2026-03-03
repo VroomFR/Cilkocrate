@@ -1,0 +1,24 @@
+{
+    "id":132848874 ,
+    "name": "Mudkip’s demise",
+    "author": "Fortnightending",
+    "creators": ["Fortnightending"],
+    "verifier": "ThalliumGMD",
+    "verification": "none",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 50,
+            "hz": 240
+        },
+        {
+            "user": "ClonkGMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 38,
+            "hz": 144
+        }
+    ]
+}
