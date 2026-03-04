@@ -1,0 +1,42 @@
+{
+    "id": 0,
+    "name": "Silent vroomfr",
+    "author": "DaniGamer934",
+    "creators": ["DaniGamer934"],
+    "verifier": "Lighting",
+    "verification": "none",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "WaterGuy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "OctopusMan123",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Darusoro",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
