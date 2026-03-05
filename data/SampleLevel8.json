@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
             "percent": 100,
             "hz": 120
+         },   
+         {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=KziHx5ROuCA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
