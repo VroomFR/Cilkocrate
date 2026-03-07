@@ -14,9 +14,15 @@
             "percent": 100,
             "hz": 240
          },
-         {    
-            "user": "polargaist",
+         {
+            "user": "Clonk GMD",
             "link": "https://www.youtube.com/watch?v=KziHx5ROuCA",
+            "percent": 100,
+            "hz": 240
+         },
+         {    
+            "user": "Couch",
+            "link": "https://www.youtube.com/watch?v=l7PGNPWK-k8",
             "percent": 100,
             "hz": 240
         }
