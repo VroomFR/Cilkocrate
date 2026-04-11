@@ -1,0 +1,42 @@
+{
+    "id": 133005819,
+    "name": "we get it",
+    "author": "FreakRam",
+    "creators": ["FreakRam"],
+    "verifier": "Vinstik",
+    "verification": "none",
+    "percentToQualify": "19",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "WaterGuy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "BestPlayerEverNoCap",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ClonkGMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SpikeyBoy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Gold-e",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
