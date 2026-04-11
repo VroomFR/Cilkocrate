@@ -1,0 +1,42 @@
+{
+    "id": 133125108,
+    "name": "silent ultra epic preview",
+    "author": "SnowStorm152",
+    "creators": ["SnowStorm152"],
+    "verifier": "Gold-e",
+    "verification": "none",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "reactorcorezero",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SpikeyBoy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
