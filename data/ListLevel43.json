@@ -1,0 +1,42 @@
+{
+    "id": 132888469,
+    "name": "is there echo in here",
+    "author": "Jimme Sork",
+    "creators": ["Jimme Sork"],
+    "verifier": "Gold-e",
+    "verification": "none",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BestPlayerEverNoCap",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SpikeyBoy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
