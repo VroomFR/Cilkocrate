@@ -1,0 +1,42 @@
+{
+    "id": 133149809,
+    "name": "Silent silent Acropolis",
+    "author": "fish139080",
+    "creators": ["fish139080"],
+    "verifier": "Gold-e",
+    "verification": "none",
+    "percentToQualify": "1",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Darusoro",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "WestDolphin",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SpikeyBoy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
