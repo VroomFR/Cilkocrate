@@ -1,24 +1,24 @@
 {
-    "id": 0,
-    "name": "Silent diddyblud circles",
-    "author": "Silent diddyblud circles team",
-    "creators": ["silent diddyblud circles team"],
-    "verifier": "Gold-e",
-    "verification": "https://youtu.be/BEff-s7VluQ",
+    "id": 119514853,
+    "name": "Unnamed 8",
+    "author": "LuckyKat",
+    "creators": ["John07"],
+    "verifier": "Lighting",
+    "verification": "https://www.youtube.com/watch?v=WTyRYc736g4&t=40s",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Vinstik",
+            "user": "Zink",
             "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "WaterGuy",
+            "user": "WestDolphin",
             "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
             "percent": 100,
-            "hz": 240
+            "hz": 144
         }
     ]
 }
