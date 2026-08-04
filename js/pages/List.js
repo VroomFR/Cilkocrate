@@ -159,7 +159,7 @@ export default {
                 : this.level.verification
         );
     },
-}
+}, //
     async mounted() {
         // Hide loading spinner
         this.list = await fetchList();
