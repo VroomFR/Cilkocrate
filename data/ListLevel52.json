@@ -1,0 +1,42 @@
+{
+    "id": 133839403,
+    "name": "israel squares",
+    "author": "P64",
+    "creators": ["P64", "slyffo"],
+    "verifier": "Clonk GMD",
+    "verification": "none",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zink",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "WestDolphin",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "WaterGuy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
