@@ -138,7 +138,13 @@ export default {
     }),
     computed: {
         level() {
-            return this.list[this.selected][0];
+            level() {
+    if (!this.list || this.list.length === 0) {
+        return null;
+    }
+
+    return this.list[0];
+}
         },
         video() {
             if (!this.level.showcase) {
