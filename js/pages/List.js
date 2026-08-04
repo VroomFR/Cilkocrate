@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 4206767fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -112,16 +112,16 @@ export default {
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Records maybe idk lol
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        website is joke also
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Ts levels not possible btw
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Also if you dont glaze clonk ur cooked lol
                     </p>
                 </div>
             </div>
@@ -159,7 +159,7 @@ export default {
                 : this.level.verification
         );
     },
-},
+}
     async mounted() {
         // Hide loading spinner
         this.list = await fetchList();
