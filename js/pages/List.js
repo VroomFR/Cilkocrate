@@ -137,26 +137,29 @@ export default {
         store
     }),
     computed: {
-            level() {
-    if (!this.list || this.list.length === 0) {
-        return null;
-    }
+    level() {
+        if (!this.list || this.list.length === 0 || !this.list[this.selected]) {
+            return null;
+        }
 
-    return this.list[0];
-}
-        },
-        video() {
-            if (!this.level.showcase) {
-                return embed(this.level.verification);
-            }
-
-            return embed(
-                this.toggledShowcase
-                    ? this.level.showcase
-                    : this.level.verification
-            );
-        },
+        return this.list[this.selected][0];
     },
+    video() {
+        if (!this.level) {
+            return "";
+        }
+
+        if (!this.level.showcase) {
+            return embed(this.level.verification);
+        }
+
+        return embed(
+            this.toggledShowcase
+                ? this.level.showcase
+                : this.level.verification
+        );
+    },
+},
     async mounted() {
         // Hide loading spinner
         this.list = await fetchList();
