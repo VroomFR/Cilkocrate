@@ -137,7 +137,6 @@ export default {
         store
     }),
     computed: {
-        level() {
             level() {
     if (!this.list || this.list.length === 0) {
         return null;
