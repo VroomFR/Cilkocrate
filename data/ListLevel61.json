@@ -1,0 +1,42 @@
+{
+    "id": 133054512,
+    "name": "the waffle god",
+    "author": "Lil Skittle",
+    "creators": ["Lil Skittle"],
+    "verifier": "WestDolphin",
+    "verification": "none",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "WestDolphin",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Clonk GMD",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Prankz",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "WaterGuy",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gold-e",
+            "link": "https://www.youtube.com/watch?v=QEpg4889J8E&t=7s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
